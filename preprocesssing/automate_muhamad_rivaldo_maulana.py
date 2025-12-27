@@ -17,9 +17,10 @@ from sklearn.preprocessing import StandardScaler, LabelEncoder
 
 
 def preprocess_data(
-    input_path="Social_Network_Ads.csv",
-    output_path="dataset_preprocessing.csv"
+    input_path="Data Set/Social_Network_Ads.csv",
+    output_path="preprocessing/dataset_preprocessing.csv"
 ):
+
     """
     Fungsi untuk melakukan preprocessing data secara otomatis
     sesuai dengan hasil eksperimen pada notebook.
