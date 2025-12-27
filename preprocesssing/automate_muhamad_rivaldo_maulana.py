@@ -10,7 +10,7 @@ Original file is located at
 """
 
 # automate_Rivaldo.py
-# Automasi Data Preprocessing sesuai hasil eksperimen (EDA & Preprocessing)
+# Automasi Data Preprocessing sesuai hasil eksperimen 
 
 import pandas as pd
 from sklearn.preprocessing import StandardScaler, LabelEncoder
